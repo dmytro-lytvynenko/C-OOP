@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Im3c4nAB+npa2Gr0O1NLNwwtsKU7EN9FV/zQhk43nA9qZP/isqDYABDRlww6KfiVnv+gQm4J2bQSrColqphaJA==",
+  "dgSpecHash": "OwLGlYYbs520/azPtUGgp2iaLK3WPyiXDygwr1MJfyXDmis7ZQ0NYEwJmQpvR6/hUCx4eYKE3iPbFMpJsiuHgQ==",
   "success": true,
-  "projectFilePath": "D:\\ООП\\Converter\\Converter\\Converter.csproj",
+  "projectFilePath": "D:\\GlobalLogic\\C-OOP\\Converter\\Converter\\Converter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
