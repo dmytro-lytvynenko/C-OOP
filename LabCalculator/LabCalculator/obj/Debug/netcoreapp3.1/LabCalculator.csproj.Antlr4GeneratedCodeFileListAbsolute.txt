@@ -1,0 +1,6 @@
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorLexer.cs
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorParser.cs
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorListener.cs
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorBaseListener.cs
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorVisitor.cs
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorBaseVisitor.cs

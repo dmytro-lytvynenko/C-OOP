@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ООП\\Triangles3\\Triangles3\\Triangles3.csproj": {}
+    "D:\\GlobalLogic\\C-OOP\\Triangles3\\Triangles3\\Triangles3.csproj": {}
   },
   "projects": {
-    "D:\\ООП\\Triangles3\\Triangles3\\Triangles3.csproj": {
+    "D:\\GlobalLogic\\C-OOP\\Triangles3\\Triangles3\\Triangles3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ООП\\Triangles3\\Triangles3\\Triangles3.csproj",
+        "projectUniqueName": "D:\\GlobalLogic\\C-OOP\\Triangles3\\Triangles3\\Triangles3.csproj",
         "projectName": "Triangles3",
-        "projectPath": "D:\\ООП\\Triangles3\\Triangles3\\Triangles3.csproj",
+        "projectPath": "D:\\GlobalLogic\\C-OOP\\Triangles3\\Triangles3\\Triangles3.csproj",
         "packagesPath": "C:\\Users\\Klan\\.nuget\\packages\\",
-        "outputPath": "D:\\ООП\\Triangles3\\Triangles3\\obj\\",
+        "outputPath": "D:\\GlobalLogic\\C-OOP\\Triangles3\\Triangles3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

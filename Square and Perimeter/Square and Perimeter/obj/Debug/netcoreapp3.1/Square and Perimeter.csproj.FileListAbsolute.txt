@@ -14,3 +14,19 @@ D:\ООП\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Squa
 D:\ООП\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.dll
 D:\ООП\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.pdb
 D:\ООП\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.genruntimeconfig.cache
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.exe
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.deps.json
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.runtimeconfig.json
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.runtimeconfig.dev.json
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.dll
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\bin\Debug\netcoreapp3.1\Square and Perimeter.pdb
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.csproj.AssemblyReference.cache
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square_and_Perimeter.Form1.resources
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.csproj.GenerateResource.cache
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.AssemblyInfoInputs.cache
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.AssemblyInfo.cs
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.csproj.CoreCompileInputs.cache
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.dll
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.pdb
+D:\GlobalLogic\C-OOP\Square and Perimeter\Square and Perimeter\obj\Debug\netcoreapp3.1\Square and Perimeter.genruntimeconfig.cache

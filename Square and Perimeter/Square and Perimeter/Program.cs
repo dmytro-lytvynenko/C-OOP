@@ -27,7 +27,7 @@ namespace Square_and_Perimeter
         }
         internal override double CalculatePerimeter()
         {
-            Perimeter = Math.Round(Math.PI * Radius / 2 , 3);
+            Perimeter = Math.Round(Math.PI * Radius * 2 , 3);
             return Perimeter;
         }
     }
@@ -73,15 +73,15 @@ namespace Square_and_Perimeter
     }
     class Romb : Quadrat
     {
-        internal double AngleSinus;
-        internal Romb(double Side_, double AngleSinus_) : base(Side_)
+        internal double Angle;
+        internal Romb(double Side_, double Angle_) : base(Side_)
         {
             Side = Side_;
-            AngleSinus = AngleSinus_;
+            Angle = Angle_;
         }
         internal override double CalculateSquare()
         {
-            Square = Side * Side * Math.Asin(AngleSinus);
+            Square = Side * Side * Math.Sin(Angle) * 180 / Math.PI;
             return Square;
         }
     }
