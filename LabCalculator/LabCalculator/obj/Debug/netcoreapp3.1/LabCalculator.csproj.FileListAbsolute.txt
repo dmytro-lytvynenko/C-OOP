@@ -12,7 +12,6 @@ C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\L
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorVisitor.cs
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculatorBaseVisitor.cs
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
-C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.Form1.resources
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.csproj.GenerateResource.cache
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.AssemblyInfoInputs.cache
@@ -23,3 +22,4 @@ C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\L
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.pdb
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.genruntimeconfig.cache
 C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\LabCalculator.csproj.AssemblyReference.cache
+C:\Users\Klan\source\repos\LabCalculator\LabCalculator\obj\Debug\netcoreapp3.1\TableEditor.Form1.resources
