@@ -79,8 +79,8 @@ namespace TableEditor
             {
                 System.Windows.Forms.MessageBox.Show("There is a loop! Change the expression.");
                 grid[row][col].expression = "";
-                grid[row][col].value = "0";
-                dataGridView1[col, row].Value = "0";
+                //grid[row][col].value = "0";
+                //dataGridView1[col, row].Value = "0";
                 return;
             }
 
@@ -90,8 +90,8 @@ namespace TableEditor
             {
                 System.Windows.Forms.MessageBox.Show("Error in cell " + FullName(row, col));
                 grid[row][col].expression = "";
-                grid[row][col].value = "0";
-                dataGridView1[col, row].Value = "0";
+                //grid[row][col].value = "0";
+                //dataGridView1[col, row].Value = "0";
                 return;
             }
             grid[row][col].value = val;
@@ -117,8 +117,8 @@ namespace TableEditor
             {
                 System.Windows.Forms.MessageBox.Show("Error in cell " + cell.getName());
                 cell.expression = "";
-                cell.value = "0";
-                dataGridView1[cell.column, cell.row].Value = "0";
+                //cell.value = "0";
+                //dataGridView1[cell.column, cell.row].Value = "0";
                 return false;
             }
             grid[cell.row][cell.column].value = Value;
@@ -168,7 +168,7 @@ namespace TableEditor
             try
             {
                 res = Convert.ToString(LabCalculator.Calculator.Evaluate(expression));
-                if (res == "∞")
+                if (res == "безмежність")
                 {
                     res = "Division by zero error";
                 }
