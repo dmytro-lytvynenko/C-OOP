@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArchiveDataBase>
+	<author AUTHOR="Petrov">
+		<masterpiece
+			MATERIAL ="Atntipatterns"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="MI"
+		    MATERIAL_TYPE ="Course work"
+			PAGES="250"
+			DATE ="18.10.2021">
+		</masterpiece>
+		<masterpiece
+			MATERIAL ="Patterns"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="TF"
+		    MATERIAL_TYPE ="Disertation"
+			PAGES="120"
+			DATE ="21.05.2025">
+		</masterpiece>
+		<masterpiece
+			MATERIAL ="Docker"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="MI"
+		    MATERIAL_TYPE ="Disertation"
+			PAGES="190"
+			DATE ="7.06.2027">	
+		</masterpiece>
+	</author>
+	<author AUTHOR="Petrenko">
+		<masterpiece
+			MATERIAL ="Math modeling"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="TF"
+		    MATERIAL_TYPE ="Course work"
+			PAGES="240"
+			DATE ="13.11.2021">
+		</masterpiece>
+		<masterpiece
+			MATERIAL ="QT framework"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="MI"
+		    MATERIAL_TYPE ="Diploma work"
+			PAGES="250"
+			DATE ="13.02.2024">
+		</masterpiece>
+		<masterpiece
+			MATERIAL ="Python OOP"
+			FACULTY ="Cybernetics"
+			CATHEDRY ="MI"
+		    MATERIAL_TYPE ="Disertation"
+			PAGES="190"
+			DATE ="1.01.2027">
+		</masterpiece>
+	</author>
+</ArchiveDataBase>
